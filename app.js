@@ -5,7 +5,7 @@ const app = express();
 //ROUTES
 
 app.get('/', (req, res) => {
-    res.send("Home page");
+    res.send("Home pagsdde");
 });
 
 
